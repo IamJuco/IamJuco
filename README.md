@@ -1,7 +1,12 @@
-### Hi there 👋
-
+<h1 align = "center">🐱‍💻Tech Stack</h1>
+<p align= "center">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  
+<h1 align = 'center'>🛠My Stat</h1>
 <div align = "center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wntjdgus99">
+<div align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=Juseonghyun&show_icons=true&theme=radical">
 </div>
 
 <!--
