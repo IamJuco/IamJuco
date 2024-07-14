@@ -1,6 +1,6 @@
 <h1 align = "center">🐱‍💻Tech Stack</h1>
 <p align= "center">
-<img src="https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
   
 <h1 align = 'center'>🛠My Stat</h1>
