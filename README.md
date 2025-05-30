@@ -1,7 +1,7 @@
 <h1 align = "center">🛠Tech Stack</h1>
 <p align= "center">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/AndroidStuido-3DDC84?style=flat-square&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white">
 <img src="https://img.shields.io/badge/AdMob-FFCC00?style=flat-square&logo=AdMob&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
