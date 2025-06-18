@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/AdMob-FFCC00?style=flat-square&logo=AdMob&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Figma-9A48F1?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
    <div><a href="https://solved.ac/profile/wntjdgus99"> <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wntjdgus99"></a></div>
@@ -42,7 +42,7 @@
 <br>
 
 ### 🏅 수상 경험이 있어요.
-- 내일배움캠프, 스파르타 코딩 Android 3기
+- **내일배움캠프, 스파르타 코딩 Android 3기**
     - 최종 프로젝트 최우수상
     - 커뮤니케이션 우수상
  
