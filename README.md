@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AdMob-FFCC00?style=flat-square&logo=AdMob&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/AdMob-FFCC00?style=flat-square&logo=AdMob&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/> -->
@@ -45,6 +45,9 @@
 - **내일배움캠프, 스파르타 코딩 Android 3기**
     - 최종 프로젝트 최우수상
     - 커뮤니케이션 우수상
+
+
+ 
  
 <br>
 
