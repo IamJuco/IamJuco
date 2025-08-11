@@ -31,13 +31,13 @@
 
 ### 💻 프로젝트 경험이 있어요.
 
-- **[CokeZet](https://github.com/CokeZet/CokeZet_Android)** : 제로콜라 최저가 검색 및 가격 비교 플랫폼 앱 - 개발중
+- **[CokeZet](https://github.com/CokeZet/CokeZet_Android)** : 제로콜라 최저가 검색 및 가격 비교 플랫폼 앱
 
 - **[알바타임](https://github.com/IamJuco/alba-time)** : 알바 시급 관리 및 기록 앱 - [PlayStore 출시](https://play.google.com/store/apps/details?id=com.juco.albatime&hl=ko)
       
-- **[따라오개](https://github.com/nbc-final-team2/ddaraogae)** : 반려견 산책 트래킹 앱 - [PlayStore 출시](https://play.google.com/store/apps/details?id=com.nbcfinalteam2.ddaraogae&hl=ko)
+- **[따라오개](https://github.com/nbc-final-team2/ddaraogae)** : 반려견 산책 트래킹 앱
 
-- **과일만나** : 농부와 고객을 이어주는 마켓플레이스 앱 - [PlayStore 출시](https://play.google.com/store/apps/details?id=com.nemocompany.fruitsmanna&hl=ko)
+- **과일만나** : 농부와 고객을 이어주는 마켓플레이스 앱
 
 <br>
 
