@@ -24,7 +24,7 @@
 <!--   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Figma-9A48F1?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-   <div><a href="https://solved.ac/profile/wntjdgus99"> <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wntjdgus99"></a></div>
+<!--    <div><a href="https://solved.ac/profile/wntjdgus99"> <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wntjdgus99"></a></div> -->
 </p>
 
 <br>
