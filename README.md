@@ -36,8 +36,6 @@
 
 - **Pool** : 콘텐츠 기반 소셜 커머스 플랫폼 앱
 
-- **[CokeZet](https://github.com/CokeZet/CokeZet_Android)** : 제로콜라 최저가 검색 및 가격 비교 플랫폼 앱
-
 - **[알바타임](https://github.com/IamJuco/alba-time)** : 알바 시급 관리 및 기록 앱 - [PlayStore 출시](https://play.google.com/store/apps/details?id=com.juco.albatime&hl=ko)
       
 - **[따라오개](https://github.com/nbc-final-team2/ddaraogae)** : 반려견 산책 트래킹 앱
