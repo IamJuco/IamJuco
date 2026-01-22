@@ -32,7 +32,7 @@
 
 ### 💻 프로젝트 경험이 있어요.
 
-- **[구독매니저](https://github.com/IamJuco/sub-manager)** : 서비스 구독 관리 및 알림 설정 앱 - PlayStore 배포 심사 중
+- **[구독매니저](https://github.com/IamJuco/sub-manager)** : 서비스 구독 관리 및 알림 설정 앱 - [PlayStore 출시](https://play.google.com/store/apps/details?id=com.juco.submanager&hl=ko)
 
 - **Pool** : 콘텐츠 기반 소셜 커머스 플랫폼 앱
 
