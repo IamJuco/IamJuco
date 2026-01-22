@@ -32,6 +32,8 @@
 
 ### 💻 프로젝트 경험이 있어요.
 
+- **[구독매니저](https://github.com/IamJuco/sub-manager)** : 서비스 구독 관리 및 알림 설정 앱 - PlayStore 배포 심사 중
+
 - **Pool** : 콘텐츠 기반 소셜 커머스 플랫폼 앱
 
 - **[CokeZet](https://github.com/CokeZet/CokeZet_Android)** : 제로콜라 최저가 검색 및 가격 비교 플랫폼 앱
