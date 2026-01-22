@@ -9,7 +9,7 @@
 
 저에 대해 자세히 알고 싶은가요?
 <br>
-👉 **[이력서](https://juco-io.notion.site/1d35430a43d18027910ee11ea3a87c9a)**  
+👉 **[이력서](https://juco-io.notion.site/2ef5430a43d180969b7bdc095ddae84b)**  
 👉  **[포트폴리오](https://juco-io.notion.site/2a85430a43d180b89530f6b5019831b7)**
 <br>
 <br>
