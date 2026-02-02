@@ -17,7 +17,7 @@
 <br>
 
 ## Experience & Career
-- 내일배움캠프, 스파르타코딩 3th Android Part (2024.01 ~ 2024.07)
-- 네모컴퍼니 Android Intern (2024.08 ~ 2024.10)
-- 네이버 부스트캠프 10th Android Part (2025.06 ~ 20205.08)
-- Crewmate (2026.01 ~ ) Android Develop, SM & iOS SM
+- **내일배움캠프, 스파르타코딩** : 3th Android Part (2024.01 ~ 2024.07)
+- **네모컴퍼니** : Android Intern (2024.08 ~ 2024.10)
+- **네이버 부스트캠프** : 10th Android Part (2025.06 ~ 20205.08)
+- **Crewmate** : Android Develop, SM & iOS SM (2026.01 ~ ing)
