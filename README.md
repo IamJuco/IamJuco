@@ -21,4 +21,3 @@
 - 네모컴퍼니 Android Intern (2024.08 ~ 2024.10)
 - 네이버 부스트캠프 10th Android Part (2025.06 ~ 20205.08)
 - Crewmate (2026.01 ~ ) Android Develop, SM & iOS SM
-- 
