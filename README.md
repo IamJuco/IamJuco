@@ -1,51 +1,24 @@
-### 안녕하세요 :) 안드로이드 개발자 주성현 입니다.
-
-저는 지식 공유와 커뮤니티 활동을 통해 성장하기를 좋아하며
+## Tech Stack
+  <p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
+    
 <br>
-**동작하는 코드**가 아닌 **리팩토링 중심의 코드** 개선에 대해 항상 고민하고 있습니다.
-<br>
-최근에는 **의존성을 최소화**하고 **독립적인 컴포넌트로 구성한 템플릿**을 만들어 적용해 나가고 있습니다.
-<br>
-
-### 🛠 Tech Stacks
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-9A48F1?style=flat-square&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-</p>
-
 <br>
 
-### 💻 프로젝트 경험이 있어요.
-
-- **[구독매니저](https://github.com/IamJuco/sub-manager)** : 서비스 구독 관리 및 알림 설정 앱 - [PlayStore 출시](https://play.google.com/store/apps/details?id=com.juco.submanager&hl=ko)
-
-- **Pool** : 콘텐츠 기반 소셜 커머스 플랫폼 앱
-
-- **[알바타임](https://github.com/IamJuco/alba-time)** : 알바 시급 관리 및 기록 앱 - [PlayStore 출시](https://play.google.com/store/apps/details?id=com.juco.albatime&hl=ko)
-      
+## Project
+- **Pool** : 콘텐츠 기반 소셜 커머스 플랫폼 앱 - ing
+- **[구독매니저](https://github.com/IamJuco/sub-manager)** : 서비스 구독 관리 및 알림 설정 앱 - [PlayStore](https://play.google.com/store/apps/details?id=com.juco.submanager&hl=ko)
+- **[알바타임](https://github.com/IamJuco/alba-time)** : 알바 시급 관리 및 기록 앱 - [PlayStore](https://play.google.com/store/apps/details?id=com.juco.albatime&hl=ko)  
 - **[따라오개](https://github.com/nbc-final-team2/ddaraogae)** : 반려견 산책 트래킹 앱
 
 <br>
-
-### 🏅 수상 경험이 있어요.
-- **내일배움캠프, 스파르타 코딩 Android 3기**
-    - 최종 프로젝트 최우수상
-    - 커뮤니케이션 우수상
-
-
- 
- 
 <br>
 
-### 🧑‍💻 기술 블로그를 운영하고 있어요.
-<img src='https://i.namu.wiki/i/Jz0MFNR7_7LHx1Yda0Hy6929g3BD5fWmaARdUMMFPkFIAVC_ewY7BEcoIGhepmTKRBKmSxRSUBjI7pklIZLaAA.svg' width=20/> [티스토리 기술블로그](https://jucodingdev.tistory.com/)
-
-
-
-
+## Experience & Career
+- 내일배움캠프, 스파르타코딩 3th Android Part (2024.01 ~ 2024.07)
+- 네모컴퍼니 Android Intern (2024.08 ~ 2024.10)
+- 네이버 부스트캠프 10th Android Part (2025.06 ~ 20205.08)
+- Crewmate (2026.01 ~ ) Android Develop, SM & iOS SM
+- 
